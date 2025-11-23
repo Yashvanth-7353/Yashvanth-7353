@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Yashvanth</h1>
-<h3 align="center">🚀 ISE student | 💡 Builder of Real-World Tech Solutions | 🌏 India</h3>
+<h3 align="center">🚀 ISE student | 💡 Builder of Real-World Tech Solutions | 🌏 Bengaluru, Karnataka, India</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=600&lines=Turning+ideas+into+deployable+projects;AI+%7C+Web+%7C+IoT+%7C+Data+%7C+Cloud;Always+learning+%26+shipping+something+new" alt="Typing SVG" />
@@ -57,15 +57,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yashvanth-7353&show_icons=true&theme=radical" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashvanth-7353&theme=radical" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashvanth-7353&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 ---
