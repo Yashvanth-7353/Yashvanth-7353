@@ -163,15 +163,6 @@ diff --git a/avg_candidate b/yashvanth
 
 ---
 
-<!-- Contribution snake — set up GitHub Action to generate this -->
-<!-- See: https://github.com/Platane/snk -->
-<div align="center">
-
-![snake](https://raw.githubusercontent.com/Yashvanth-7353/Yashvanth-7353/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Yashvanth-7353&style=flat-square&color=00d9ff&label=profile+views" />
