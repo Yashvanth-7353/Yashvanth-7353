@@ -1,222 +1,88 @@
 <div align="center">
 
-# Hi, I'm Yashvanth 👋
+<img src="assets/hero.svg" alt="yashvanth@rvce terminal: whoami, now, ship" width="100%"/>
 
-### Software Engineer • RV College of Engineering (ISE '27)
+<br/>
 
-Building backend systems, developer tools and cloud infrastructure with a focus on production-ready software.
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=00D9FF&center=true&vCenter=true&width=750&lines=React+%7C+FastAPI+%7C+Node.js+%7C+AWS;Building+things+that+actually+ship;Always+learning+backend+architecture+and+system+design"/>
+[`portfolio`](https://yashvanth.pages.dev) &nbsp;·&nbsp; [`linkedin`](https://linkedin.com/in/yashvanthmu) &nbsp;·&nbsp; [`email`](mailto:yashavanth.mu870@gmail.com)
 
 </div>
 
----
+<br/>
 
-# Engineering Profile
+## `how i work`
+*Plain English: I learn it, build it, break it, fix it, ship it, then do it again.*
+
+<img src="assets/pipeline.svg" alt="learn, build, break, fix, ship loop" width="100%"/>
+
+<br/>
+
+## `docker ps`
+*Plain English: what I've built. Each card is a project, each one is a real working system.*
+
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/Yashvanth-7353/CloudOps"><img src="assets/cloudops.svg" alt="CloudOps" width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/Yashvanth-7353/Gram-Sahayak"><img src="assets/gram-sahayak.svg" alt="Gram Sahayak" width="100%"/></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/Yashvanth-7353/trueProject"><img src="assets/trueproject.svg" alt="trueProject" width="100%"/></a></td>
+<td width="50%"><img src="assets/impactbridge.svg" alt="ImpactBridge" width="100%"/></td>
+</tr>
+</table>
+
+<details>
+<summary><b>What each one actually does</b></summary>
+
+<br/>
+
+- **CloudOps**: paste a GitHub repo, it builds a Docker image, pushes to AWS ECR, spins up an EC2 instance, and streams build logs live to your browser. A signed webhook (HMAC-SHA256) redeploys on every push.
+- **Gram Sahayak**: citizens report broken infrastructure; a Haversine check rejects reports filed more than 50 m from the actual site (anti GPS-spoofing). Citizens, contractors and officials get separate roles. An LLM scores sentiment, and unresolved complaints auto-escalate after 14 days.
+- **trueProject**: a project portal for students, faculty and admins with semantic search (384-d embeddings + FAISS, sub-200 ms) and LLM-generated, fact-grounded evaluation.
+- **ImpactBridge** *(internship, Mar–Jun 2026)*: backend for 10+ NGO clients covering onboarding, donations, volunteering, events and a marketplace. Built a write-behind analytics pipeline that batches datastore writes to speed up dashboards.
+
+</details>
+
+<br/>
+
+## `stack.yml`
+*Plain English: the tools I reach for.*
 
 ```yaml
-Name:        Yashvanth
-Education:   B.E Information Science & Engineering
-College:     RV College of Engineering
-CGPA:        8.63
-
-Focus:
-  - Backend Engineering
-  - Cloud Infrastructure
-  - Developer Tools
-  - System Design
-
-Current Learning:
-  - AWS
-  - Distributed Systems
-  - Scalability
+services:
+  languages:  [C++, Python, JavaScript, TypeScript, SQL]
+  frontend:   [React, Tailwind CSS, HTML, CSS]
+  backend:    [Node.js, Express, FastAPI, REST, JWT, Socket.IO]
+  data:       [MongoDB, PostgreSQL, Firebase, FAISS]
+  infra:      [AWS (EC2 · ECR · S3), Docker, Linux, Git]
 ```
 
----
+<br/>
 
-# Engineering Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,sql"/>
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express"/>
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb"/>
-</p>
-
-### Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,postman"/>
-</p>
-
----
-
-# Engineering Principles
-
-- Build for production, not just demonstrations.
-- Prefer explainable architecture over unnecessary complexity.
-- Measure performance before optimizing.
-- Automate repetitive workflows.
-- Design systems that are maintainable and scalable.
-
----
-
-# Featured Projects
-
-## CloudOps
-
-Self-service deployment platform capable of
-
-- Repository cloning
-- Docker image generation
-- AWS ECR integration
-- EC2 provisioning using AWS SDK
-- Live deployment logs via Socket.IO
-
-**Stack**
-
-React • TypeScript • Node.js • Docker • AWS
-
-**Repository**
-
-https://github.com/Yashvanth-7353/CloudOps
-
----
-
-## Gram Sahayak
-
-AI-powered civic grievance platform with
-
-- GPS validation using Haversine distance
-- LLM-based complaint categorization
-- Automatic escalation workflow
-- Interactive geospatial dashboard
-
-**Stack**
-
-FastAPI • React • MongoDB • AWS S3
-
-Repository
-
-https://github.com/Yashvanth-7353/Gram-Sahayak
-
-Live
-
-https://gramsahayak.vercel.app/
-
----
-
-## trueProject
-
-Academic project management platform featuring
-
-- Role-based authentication
-- Semantic duplicate detection
-- FAISS vector search
-- PostgreSQL backend
-
-**Stack**
-
-FastAPI • React • PostgreSQL • FAISS
-
-Repository
-
-https://github.com/Yashvanth-7353/trueProject
-
-Live
-
-https://trueprojects.vercel.app/
-
----
-
-## Network Navigator
-
-Interactive network topology visualization platform
-
-- React Flow
-- Dijkstra visualization
-- Graph editing
-- Dynamic routing simulation
-
-**Stack**
-
-Next.js • TypeScript • React Flow
-
-Repository
-
-https://github.com/Yashvanth-7353/Network_Navigator
-
----
-
-# GitHub Analytics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Yashvanth-7353&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img width="49%" src="https://streak-stats.demolab.com/?user=Yashvanth-7353&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashvanth-7353&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# GitHub Snapshot
-
-| Metric | Value |
-|---------|------:|
-| Projects | 10+ |
-| Live Deployments | 3 |
-| LeetCode Problems | 200+ |
-| Internship Experience | Yes |
-| Open Source | Growing |
-
----
-
-# Connect
+## `git log --achievements`
+*Plain English: things I'm proud of.*
 
 ```text
-Email
-yashavanth.mu870@gmail.com
-
-Portfolio
-https://yashvanth.pages.dev
-
-LinkedIn
-https://linkedin.com/in/yashvanth-mu
-
-GitHub
-https://github.com/Yashvanth-7353
+* 9f3c2ab (HEAD -> main) feat: National Finalist, Hackfest @ NMAMIT (Top 5 of 60+ teams, 36 hrs)
+* 4d1e7c0 feat: NPTEL Big Data Computing, Elite + Gold, top 5% (91%)
+* b82a6f5 feat: NPTEL Data Science for Engineers, Elite + Silver (81%)
+* 70ce913 feat: GCP Cloud Arcade, Google Cloud Skills Boost
+* 1a5d8e2 feat: 200+ LeetCode problems (arrays, graphs, DP)
 ```
 
----
+<br/>
+
+## `contact`
+
+```bash
+$ echo "building something interesting? let's talk."
+building something interesting? let's talk.
+```
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Yashvanth-7353&style=flat-square&color=00d9ff&label=Profile+Views"/>
+[**portfolio**](https://yashvanth.pages.dev) &nbsp;·&nbsp; [**linkedin**](https://linkedin.com/in/yashvanthmu) &nbsp;·&nbsp; [**email**](mailto:yashavanth.mu870@gmail.com)
 
-*"Good software isn't just written — it's engineered."*
+<sub>B.E. Information Science · RV College of Engineering, Bengaluru</sub>
 
 </div>
