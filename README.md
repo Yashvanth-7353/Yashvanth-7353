@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="Yashvanth M U - Cloud Systems & Full-Stack Engineer" width="100%"/>
+<img src="assets/hero.svg" alt="Yashvanth M U - Software Developer" width="100%"/>
 
 <br/>
 
@@ -73,7 +73,7 @@ frontend:   [React.js, Tailwind CSS, HTML5, CSS3, Leaflet.js]
 - 🏆 **National Finalist — Hackfest @ NMAMIT**: Top 5 out of 60+ teams in a 36-hour national hackathon
 - 🥇 **Big Data Computing (NPTEL)**: Elite + Gold Medal (Top 5% Topper with 91% score)
 - 🥈 **Data Science for Engineers (NPTEL)**: Elite + Silver Medal (81% score)
-- ⚡ **LeetCode**: 200+ problems solved across arrays, graphs, trees, and dynamic programming
+- ⚡ **LeetCode**: 300+ problems solved across arrays, graphs, trees, and dynamic programming
 - 🎓 **RV College of Engineering**: B.E. in Information Science & Engineering (CGPA: 8.77 / 10)
 
 <br/>
@@ -81,5 +81,5 @@ frontend:   [React.js, Tailwind CSS, HTML5, CSS3, Leaflet.js]
 ---
 
 <div align="center">
-  <sub>Open to software engineering and cloud infrastructure roles · <a href="mailto:yashavanth.mu870@gmail.com">Let's talk</a></sub>
+  <sub>Open to Software Developer roles · <a href="mailto:yashavanth.mu870@gmail.com">Let's talk</a></sub>
 </div>

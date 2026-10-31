@@ -44,15 +44,15 @@
   <!-- Top Status Bar -->
   <g transform="translate(36, 26)">
     <circle cx="5" cy="5" r="4" fill="#10b981"/>
-    <text x="16" y="9" fill="#34d399" font-size="11" font-weight="700" class="f-mono" letter-spacing="0.5">OPEN TO SOFTWARE ENGINEERING &amp; CLOUD ROLES</text>
+    <text x="16" y="9" fill="#34d399" font-size="11" font-weight="700" class="f-mono" letter-spacing="0.5">OPEN TO SOFTWARE DEVELOPER ROLES</text>
     <text x="828" y="9" fill="#94a3b8" font-size="11" font-weight="500" class="f-sans" text-anchor="end">📍 Bengaluru, India</text>
   </g>
 
   <!-- Name & Subtitle -->
   <g transform="translate(36, 62)">
     <text x="0" y="32" fill="url(#nameGrad)" font-size="34" font-weight="800" class="f-sans" letter-spacing="-0.5">Yashvanth M U</text>
-    <text x="0" y="62" fill="#cbd5e1" font-size="15" font-weight="500" class="f-sans">
-      Full-Stack Systems Engineer <tspan fill="#38bdf8">·</tspan> Cloud Architecture <tspan fill="#34d399">·</tspan> Applied AI
+    <text x="0" y="62" fill="#cbd5e1" font-size="16" font-weight="600" class="f-sans">
+      Software Developer
     </text>
     <text x="0" y="83" fill="#94a3b8" font-size="12.5" font-weight="400" class="f-sans">
       B.E. Information Science @ RV College of Engineering (8.77 CGPA) · Web Development Intern @ ImpactBridge
